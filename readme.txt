@@ -1,8 +1,4 @@
-Generalized Dynamic Benchmark Generator for CEC'2009 Competition on Dynamic Optimization
-
-The programs are written in MATLAB (ver. 7.0.4).
-Last Modification: October 25, 2008
-For enquiries, please email to YuLing@ntu.edu.sg.
+ This code is associated with the paper: A Data Stream Ensemble Assisted Multifactorial Evolutionary Algorithm for Offline Data-driven Dynamic Optimization, which has been accepted by Evolutionary Computation (ECJ).
 
 ===============Contents===============
 DBG.m
